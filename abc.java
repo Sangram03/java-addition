@@ -11,7 +11,7 @@ return a+b+c ;
 public static void main (String args[])
 {
 abc a1 = new abc();
-int z = a1.sum(6,9);
+int z = a1.sum(6,90);
 System.out.println("the sum=" +z);
 int y = a1.sum(5,2,9);
 System.out.println("the sum=" +y);
