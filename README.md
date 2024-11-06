@@ -1,6 +1,6 @@
 # java-addition
-addition
-sum
+ addition
+ sum
 multiplication 
 division
 
