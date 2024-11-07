@@ -1,4 +1,4 @@
-# java-addition
+# java
  addition
  sum
 multiplication 
